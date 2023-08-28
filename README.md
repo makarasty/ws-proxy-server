@@ -27,4 +27,4 @@ If you don't have such a friend, you can find any java hosting service and run t
 `jar cvfm proxy.jar MANIFEST.MF *.class`
 
 # Starting
-`java -jar server.jar`
+`java -jar proxy.jar`
