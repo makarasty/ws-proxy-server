@@ -28,3 +28,10 @@ If you don't have such a friend, you can find any java hosting service and run t
 
 # Starting
 `java -jar proxy.jar`
+
+# Screenshots
+![image](https://github.com/makarasty/ws-proxy-server/assets/71918286/3e34a3cf-6ee5-4247-91b0-b00743ff3654)
+<br>
+![image](https://github.com/makarasty/ws-proxy-server/assets/71918286/d3dcf07e-5ede-4fdc-8983-c6d249191e97)
+
+
